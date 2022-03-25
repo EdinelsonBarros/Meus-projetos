@@ -1,2 +1,2 @@
 # Meus projetos
- Estes projetos tem como finalidade ajudar a solucionar problemas e melhorar minhas habilidades.
+ Estes projetos tem como finalidade solucionar problemas cotidianos e melhorar minhas habilidades.
